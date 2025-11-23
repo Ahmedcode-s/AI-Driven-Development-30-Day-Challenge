@@ -18,7 +18,7 @@ Is partnership se kaam zyada fast accurate aur productive ho jayega aur insaan a
 - d) Automate testing  
 
 ## 2️⃣ What defines an AI-driven developer?
-- a) Writes only syntax  
+ a) Writes only syntax  
 - **b) Creates context-aware prompts ✅**  
 - c) Avoids tools  
 - d) Works offline  
