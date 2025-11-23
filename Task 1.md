@@ -9,3 +9,5 @@ Simple words mein AI groundwork karta hai, aur insaan innovation par focus karta
 Mere liye future of Human–AI Collaboration ka matlab yeh hai ke AI insaan ka competitor nahi balkay ek powerful assistant hoga.
 AI repetitive aur time-consuming tasks handle karega, jabke insaan creativity, decision making aur problem solving par focus karega.
 Is partnership se kaam zyada fast accurate aur productive ho jayega aur insaan apni skills ko aur behtar tarah use kar sakega.
+
+<img width="1563" height="154" alt="image" src="https://github.com/user-attachments/assets/81507e1b-e36e-44bf-8ce5-7ee23db61542" />
