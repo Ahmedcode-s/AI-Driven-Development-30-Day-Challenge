@@ -54,6 +54,9 @@ AI repetitive coding handle karta hai, jisse developer architecture, data flows 
 - D. Make coding optional  
 
 ### 5️⃣ What defines an M-Shaped Developer?
-- A.
+- A. Knows little about everything  
+- B. Deep in only one field  
+- **C. Deep skills in multiple related domains ✅**  
+- D. Works without AI tools 
 
 
