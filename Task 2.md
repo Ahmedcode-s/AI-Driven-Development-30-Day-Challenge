@@ -19,3 +19,6 @@ Specification-Driven Development se pehle se clear guidelines aur rules define h
 ### 3. Architecture Thinking
 #### How does architecture-first thinking change the role of a developer in AIDD?
 AIDD ke aane se developer ka role ab sirf coding tak limited nahi raha. Ab unka main kaam hai system ka structure design karna, workflows aur data flows plan karna, aur overall architecture ko strong banana.
+#### Explain why developers must think in layers and systems instead of raw code.
+Developers ke liye important hai ke woh layers aur systems level par sochein, na ke sirf raw code.
+AI repetitive coding handle karta hai, jisse developer architecture, data flows aur design par focus kar sakta hai, aur programs smarter, scalable aur efficient bante hain.
