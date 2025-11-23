@@ -27,3 +27,33 @@ AI repetitive coding handle karta hai, jisse developer architecture, data flows 
 
 <img width="1077" height="213" alt="image" src="https://github.com/user-attachments/assets/5f6aed54-795a-4750-9399-7b632cb393f5" />
 
+## 📁 Part C — Multiple Choice Questions
+
+### 1️⃣ What is the main purpose of Spec-Driven Development?
+- A. Make coding faster  
+- **B. Clear requirements before coding begins ✅**  
+- C. Remove developers  
+- D. Avoid documentation  
+
+### 2️⃣ What is the biggest mindset shift in AI-Driven Development?
+- A. Writing more code manually  
+- **B. Thinking in systems and clear instructions ✅**  
+- C. Memorizing more syntax  
+- D. Working without any tools  
+
+### 3️⃣ Biggest failure of Vibe Coding?
+- A. AI stops responding  
+- **B. Architecture becomes hard to extend ✅**  
+- C. Code runs slow  
+- D. Fewer comments written  
+
+### 4️⃣ Main advantage of using AI CLI agents (like Gemini CLI)?
+- A. They replace the developer completely  
+- **B. Handle repetitive tasks so dev focuses on design & problem-solving ✅**  
+- C. Make coding faster but less reliable  
+- D. Make coding optional  
+
+### 5️⃣ What defines an M-Shaped Developer?
+- A.
+
+
