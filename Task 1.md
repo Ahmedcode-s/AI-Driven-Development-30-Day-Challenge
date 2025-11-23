@@ -5,3 +5,4 @@ AI-Driven Development mere liye ek aisi approach hai jahan AI ko ek smart assist
 AI repetitive tasks, code suggestions, debugging aur documentation handle karta hai, jisse development fast aur efficient ho jati hai.
 Is se developer ka focus coding ke load se hat kar creativity, architecture aur better solutions par shift ho jata hai.
 Simple words mein AI groundwork karta hai, aur insaan innovation par focus karta hai.
+### 2. How do you see the future of Human–AI Collaboration in software development?
