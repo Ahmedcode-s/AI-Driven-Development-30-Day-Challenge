@@ -14,5 +14,5 @@ The two key developer tools introduced with Gemini 3.0 are:
 ---
 
 ## PART B — Practical Task 
-###Screenshot:
+### Screenshot:
 <img width="1153" height="448" alt="image" src="https://github.com/user-attachments/assets/89ce5fb5-0c76-431a-9bcc-a6db8a87142e" />
