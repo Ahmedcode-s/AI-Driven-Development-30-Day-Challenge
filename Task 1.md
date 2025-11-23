@@ -6,3 +6,6 @@ AI repetitive tasks, code suggestions, debugging aur documentation handle karta 
 Is se developer ka focus coding ke load se hat kar creativity, architecture aur better solutions par shift ho jata hai.
 Simple words mein AI groundwork karta hai, aur insaan innovation par focus karta hai.
 ### 2. How do you see the future of Human–AI Collaboration in software development?
+Mere liye future of Human–AI Collaboration ka matlab yeh hai ke AI insaan ka competitor nahi balkay ek powerful assistant hoga.
+AI repetitive aur time-consuming tasks handle karega, jabke insaan creativity, decision making aur problem solving par focus karega.
+Is partnership se kaam zyada fast accurate aur productive ho jayega aur insaan apni skills ko aur behtar tarah use kar sakega.
