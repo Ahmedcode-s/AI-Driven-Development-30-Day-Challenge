@@ -6,3 +6,7 @@ Gemini 3.0 Google ka ab tak ka sab se smart model hai. Is ke key improvements be
 Gemini 3.0 ab sirf ek tool nahi, balki ek "active partner" ban gaya hai. Ye "vibe coding" mai great hai aur autonomously kaam kar sakta hai poora project plan kar sakta hai, code likh sakta hai, aur errors check kar sakta hai.
 ### 3. How does Gemini 3.0 improve multimodal understanding?
 Yeh model text, photo, video, aur awaaz ko ek hi waqt mein, ek hi dimagh (unified system) se dekhta hai. Isse woh un sab cheezon ko apas mein connect karke aur zyada gehrai se samajh pata hai, jaise insaan karte hain.
+### 4. Name any two developer tools introduced with Gemini 3.0.
+The two key developer tools introduced with Gemini 3.0 are:
+1.  **Google Antigravity** (a new agentic development platform for autonomous coding workflows)
+2.  **Gemini CLI** (a command-line tool for proposing and executing shell commands using natural language)
