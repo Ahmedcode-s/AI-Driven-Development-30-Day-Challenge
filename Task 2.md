@@ -13,3 +13,9 @@ Nine Pillars of AIDD repetitive aur complex tasks simplify karte hain, jisse cod
 Vibe Coding ka sabse bada masla yeh hai ke developer ko code ki internal workings ka clear idea nahi hota. Errors track karna mushkil ho jata hai aur problem ki asal wajah samajh nahi aati. Kai dafa ek choti bug ko solve karne mein bhi kaafi waqt lag jata hai. Is tarah development slow aur confusing ho jati hai.
 #### How would Specification-Driven Development prevent those problems?
 Specification-Driven Development se pehle se clear guidelines aur rules define hote hain ke code ko kaise likhna hai aur expected behavior kya hoga. Isse developer ko har step par clarity milti hai, errors easily trace hote hain, aur bugs jaldi solve ho jate hain.
+
+---
+
+### 3. Architecture Thinking
+#### How does architecture-first thinking change the role of a developer in AIDD?
+AIDD ke aane se developer ka role ab sirf coding tak limited nahi raha. Ab unka main kaam hai: system ka structure design karna, workflows aur data flows plan karna, aur overall architecture ko strong banana.
