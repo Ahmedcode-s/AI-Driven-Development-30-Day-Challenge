@@ -22,3 +22,8 @@ AIDD ke aane se developer ka role ab sirf coding tak limited nahi raha. Ab unka 
 #### Explain why developers must think in layers and systems instead of raw code.
 Developers ke liye important hai ke woh layers aur systems level par sochein, na ke sirf raw code.
 AI repetitive coding handle karta hai, jisse developer architecture, data flows aur design par focus kar sakta hai, aur programs smarter, scalable aur efficient bante hain.
+
+## 📁 Part B — Practical Task
+
+<img width="1077" height="213" alt="image" src="https://github.com/user-attachments/assets/5f6aed54-795a-4750-9399-7b632cb393f5" />
+
