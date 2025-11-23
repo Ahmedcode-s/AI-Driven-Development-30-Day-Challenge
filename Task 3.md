@@ -10,3 +10,9 @@ Yeh model text, photo, video, aur awaaz ko ek hi waqt mein, ek hi dimagh (unifie
 The two key developer tools introduced with Gemini 3.0 are:
 1.  **Google Antigravity** (a new agentic development platform for autonomous coding workflows)
 2.  **Gemini CLI** (a command-line tool for proposing and executing shell commands using natural language)
+
+---
+
+## PART B — Practical Task 
+###Screenshot:
+<img width="1153" height="448" alt="image" src="https://github.com/user-attachments/assets/89ce5fb5-0c76-431a-9bcc-a6db8a87142e" />
