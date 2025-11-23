@@ -10,3 +10,4 @@ Nine Pillars of AIDD repetitive aur complex tasks simplify karte hain, jisse cod
 
 ### 2. Vibe Coding vs Specification-Driven Development
 #### Why does Vibe Coding usually create problems after one week?
+Vibe Coding ka sabse bada masla yeh hai ke developer ko code ki internal workings ka clear idea nahi hota. Errors track karna mushkil ho jata hai aur problem ki asal wajah samajh nahi aati. Kai dafa ek choti bug ko solve karne mein bhi kaafi waqt lag jata hai. Is tarah development slow aur confusing ho jati hai.
